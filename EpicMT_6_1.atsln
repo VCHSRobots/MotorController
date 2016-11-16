@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "EpicMT", "EpicMT_6_1.cproj", "{E05D1C53-C584-46B5-9709-773A7C575901}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "V0Tracker", "..\GeoTracker\V0Tracker\V0Tracker.cproj", "{986E0DFF-F05D-442F-ADE9-8EABA9789EC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E05D1C53-C584-46B5-9709-773A7C575901}.Debug|AVR.ActiveCfg = Debug|AVR
+		{E05D1C53-C584-46B5-9709-773A7C575901}.Debug|AVR.Build.0 = Debug|AVR
+		{E05D1C53-C584-46B5-9709-773A7C575901}.Release|AVR.ActiveCfg = Release|AVR
+		{E05D1C53-C584-46B5-9709-773A7C575901}.Release|AVR.Build.0 = Release|AVR
+		{986E0DFF-F05D-442F-ADE9-8EABA9789EC3}.Debug|AVR.ActiveCfg = Debug|AVR
+		{986E0DFF-F05D-442F-ADE9-8EABA9789EC3}.Release|AVR.ActiveCfg = Release|AVR
+		{986E0DFF-F05D-442F-ADE9-8EABA9789EC3}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
